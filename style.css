@@ -63,47 +63,47 @@ th, td {border: 2px solid black;
 th {background-color: #AFCDA0;
     color: black;}
     
-td:nth-child(1) {font-weight: bolt;
+td:nth-child(1) {font-weight: bold;
 				color: #0A3D62;
 				font-size: 25px;
 				-webkit-text-stroke: 0.2px black;}
 				
-#tabellezwei td:nth-child(3) {font-weight: bolt;}
+#tabellezwei td:nth-child(3) {font-weight: bold;}
 	.leben {color: #14A63D;
 		font-size: 20px;
-		font-weight: bolt;
+		font-weight: bold;
 		-webkit-text-stroke: 0.2px black;}
 	.schild {color: #2352AD;
 		font-size: 20px;
-		font-weight: bolt;
+		font-weight: bold;
 		-webkit-text-stroke: 0.2px black;}
 	.beides {color: #341C57;
 		font-size: 20px;
-		font-weight: bolt;
+		font-weight: bold;
 		-webkit-text-stroke: 0.2px black;}
 	.schaden {color: #611E1E;
 			font-size: 20px;
-			font-weight: bolt;
+			font-weight: bold;
 			-webkit-text-stroke: 0.1px black;}
 	.Waffenart {color: #634B0C;
 			font-size: 20px;
-			font-weight: bolt;
+			font-weight: bold;
 			-webkit-text-stroke: 0.2px black;}
 	.magazin {color: black;
 			font-size: 23px;
-			font-weight: bolt;
+			font-weight: bold;
 			-webkit-text-stroke: 0.2px black;}
 	.Heilung {color: grey ;
 			font-size: 20px;
-			font-weight: bolt;
+			font-weight: bold;
 			-webkit-text-stroke: 0.1px black;}
 	.xtra {color: #664612;
 			font-size: 20px;
-			font-weight: bolt;
+			font-weight: bold;
 			-webkit-text-stroke: 0.1px black;}
 	.stack {color: #5E3229;
 			font-size: 20px;
-			font-weight: bolt;
+			font-weight: bold;
 			-webkit-text-stroke: 0.1px black;}
 				
 #spot {border: 10px solid green;
@@ -194,11 +194,12 @@ footer {
 footer a {
     text-decoration: none;
     color: Black;
-    font-weight: bolt;}
+    font-weight: bold;}
 
 footer a:hover {
     text-decoration: underline;}
     
     
+
 
 
